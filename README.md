@@ -114,6 +114,7 @@ Live prices: `client.prices()`. Linking your Telegram account to the console giv
 - API reference: <https://www.tiam.codes/docs>
 - JavaScript / TypeScript client: [solvehub-node](https://github.com/seencxy/solvehub-node)
 - Issues: <https://github.com/seencxy/solvehub-python/issues>
+- Cookie glossary: <https://seencxy.github.io/glossary/> - what `_abck`, `reese84`, `_px3` and `cf_clearance` each contain, and why they expire (English, 日本語, Bahasa Indonesia)
 
 ## Authorized use only
 
